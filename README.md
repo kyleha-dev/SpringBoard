@@ -3,7 +3,7 @@
 
 ### 1. London Calling
 - Objective: To identify which borough of London has seen the greatest average increase in housing prices over
-the (approximately) two decades covered by the dataset? 
+the (approximately) two decades covered by the dataset.
 - Keynotes: Python (pandas, numpy, matplotlib)
 
 ### 2. Big Mountain Resort
