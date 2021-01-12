@@ -1,5 +1,4 @@
 # Springboard
-> Springboard's objective is to prepare the students for tech’s most in-demand careers with expert mentors and a bleeding-edge curriculum. Currently enrolled in Data Science curriculum.
 
 ### 1. London Calling
 - Difficulty: Easy
